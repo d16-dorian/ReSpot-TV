@@ -1,4 +1,4 @@
-# SpotPass-TV-Revival
+# ReSpot TV
 This is a public repo for my SpotPass TV revival project
 
 WARNING : This project is only a translation of the original app. Patches available are in French and English.
