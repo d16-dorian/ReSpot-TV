@@ -37,6 +37,6 @@ Credits :
 
 - D16 (creator of this patch)
 
-- @Rixy565 (precious help on how to modify text files)
+- Rixy565 (precious help on how to modify text files)
 
 - sirdavide (help with itlian patch)
