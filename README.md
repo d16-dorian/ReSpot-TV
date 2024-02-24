@@ -4,7 +4,10 @@ This is a public repo for my SpotPass TV revival project
 WARNING : This project is only a translation of the original app. Patches available are in French and English.
 Italian, German, Spanish and Portugese patches are currently in making.
 
-If you have any issues, please contact me on Discord. d16.dorian
+If you have any issues, please contact me on Discord :
+
+d16.dorian or join us here : https://discord.gg/r796raWNdV
+
 
 Requirements :
 
