@@ -42,6 +42,4 @@ Credits :
 
 - Rixy565 (precious help on how to modify text files)
 
-- sirdavide (help with italian patch)
-
 - Retro Noname (creation of the beautiful logo for ReSpot TV and help with the creation of the Discord server)
